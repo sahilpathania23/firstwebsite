@@ -1,0 +1,126 @@
+body{
+	margin:0;
+	background-color: #f4f6ff;
+	text-align: center;
+	font-family: cursive;
+
+}
+.heading{
+	color: #66BFBF;
+
+}
+h1{ 
+
+	font-size: 50px;
+	margin-top: 0;	
+
+}
+.topcontainer{
+
+	padding-top:  200px;
+	position: relative;
+	background-color: 	#e4f9f5;
+	
+
+	}
+
+.middlecontainer{
+	
+	width: 50%;
+	margin:100px auto 100px auto;
+	text-align: left;
+}
+
+.bottomcontainer{
+	
+
+	width: 50%;
+	margin:100px auto 100px auto;
+	text-align: left;
+}
+
+.top-cloud{
+	position:absolute;
+	top:50px;
+	right:300px;
+	width: 15%;
+
+}
+
+
+.bottom-cloud{
+	position: absolute;
+	left: 300px;
+	top:300px;
+	width:15%;
+	
+}
+
+.mountain{
+	width: 50%;
+}
+
+p{
+	font-size: 50px;
+}
+
+.p1{
+	color: #66BFBF;   
+	font-size: 30px;
+}
+
+.chillies{
+	float: right;
+}
+
+.computer{
+	width: 25%;
+	float: left;
+}
+.inline{
+	line-height: 2;
+}
+hr{
+	border:dotted #66BFBF 10px ;
+	width: 4%;
+	border-bottom: none;
+
+}
+
+
+
+
+.myButton {
+	box-shadow: 2px -4px 5px 0px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #293038 100%);
+	background-color:#7892c2;
+	border-radius:15px;
+	border:2px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Courier New;
+	font-size:25px;
+	font-weight:bold;
+	padding:13px 41px;
+	text-decoration:none;
+	text-shadow:4px -10px 7px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #293038 5%, #7892c2 100%);
+	background-color:#293038;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer{
+
+
+	background-color: #66BFBF;
+	font-size: 30px;
+	margin: 0px;
+	padding: 50px;
+}
+
+
